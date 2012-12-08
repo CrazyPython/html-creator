@@ -1,0 +1,8 @@
+from tags import *
+string = "<!DOCTYPE html>"
+def get_tag(tag):
+	return getattr(__main__,tag)
+current_tag = html
+while True:
+	pass
+
